@@ -2,7 +2,7 @@
 GitHub最大化如何退出，按alt键弹出菜单栏，然后点击view下拉菜单，点击里面的toggle full screen 可选择打开或者关闭全屏
 
 You can use the [editor on GitHub](https://github.com/chenleigang/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-[editor on GitHub](https://chenleigabng.github.io/blog)
+[editor on GitHub](https://chenleigang.github.io/blog)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
